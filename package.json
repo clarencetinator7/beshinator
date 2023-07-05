@@ -2,7 +2,7 @@
   "name": "beshinator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://beshinator.github.io/beshify",
+  "homepage": "https://clarencetinator7.github.io/beshinator",
   "type": "module",
   "scripts": {
     "dev": "vite",
